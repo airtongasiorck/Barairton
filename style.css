@@ -17,3 +17,9 @@ h1{
 #texto2{
     color:rgb(0,250,154) ;
 }
+.destaques {
+    color:rgb(138,43,226);
+    font-size: 35;
+    font-style: italic;
+
+}
