@@ -13,9 +13,11 @@ h1{
 
 #texto1{
     color:rgb(64,224,208)
+    background-color:#739072 
 }
 #texto2{
     color:rgb(0,250,154) ;
+    background-color:#706233 ;
 }
 .destaques {
     color:rgb(138,43,226);
